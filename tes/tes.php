@@ -1,19 +1,3 @@
-<php
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Belajar Atribut Form pada html</title>
-</head>
-<body>
-<form>
-	<input list="browser" name="internet">
-	<datalist id="browser">
-	<option value="chrome">
-	<option value="mozilla">
-	<option value="opera">
-	</datalist>
-</form>
-
-</body>
-</html>
-/>
+<?php
+echo "Belajar Pemrograman PHP di malasngoding.com";
+?>
